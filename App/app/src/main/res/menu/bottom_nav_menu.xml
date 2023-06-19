@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:id="@+id/layout_Home"
+        android:title="Home"
+        android:icon="@drawable/icon_home_50" />
+    <item
+        android:id="@+id/layout_History"
+        android:title="History"
+        android:icon="@drawable/icon_firehyd" />
+    <item
+        android:id="@+id/layout_info"
+        android:title="Info"
+        android:icon="@drawable/icon_info" />
+
+</menu>
+
